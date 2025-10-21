@@ -25,7 +25,7 @@ To re-release your library to `bower`:
 
 1. `cd vgp-projects/<project-name>`
 2. `npm install -g bower`
-3. `bower install --save <gaming-library-repo-link>`
+3. `bower install --save https://github.com/MHoque27/finiteArtillery.git`
 4. `cd ../..`
 
 
