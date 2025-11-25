@@ -1,6 +1,6 @@
 ### Releasing
 
-To release your library to `bower` initially:
+To release your library to `bower` initially a:
 
 1. Save your changes to the `index.js` file.
 2. `git add -A`
